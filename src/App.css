@@ -1,0 +1,50 @@
+/* Estilos generales de la aplicación */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Estilos del contenido principal */
+  main {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  /* Estilos de las secciones */
+  section {
+    padding: 4rem 0;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #ddd;
+  }
+
+  /* Estilos del footer */
+  footer {
+    background-color: #333;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 1rem 0;
+  }
+  
+  /* Estilos de enlaces en el footer */
+  footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Estilos de los enlaces en las secciones */
+  section a {
+    color: #0026ff;
+    text-decoration: underline;
+  }
+  
+  /* Estilos para la dirección en el contacto */
+  address {
+    font-style: normal;
+  }
+  

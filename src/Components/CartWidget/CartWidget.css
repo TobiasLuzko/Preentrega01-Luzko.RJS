@@ -1,0 +1,24 @@
+/* Estilos para el componente CartWidget */
+.cart-widget {
+    position: relative;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 20px; /* Ajusta el espaciado a tu preferencia */
+  }
+  
+  .cart-icon {
+    font-size: 1.5rem;
+    color: #ffffff;
+  }
+  
+  .notification {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background-color: rgb(241, 241, 241); /* Color de fondo de la notificación */
+    color: rgb(0, 0, 0); /* Color del texto de la notificación */
+    border-radius: 50%;
+    padding: 4px 8px;
+    font-size: 0.8rem;
+  }
